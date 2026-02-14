@@ -24,9 +24,9 @@ The website is designed to present my basic information and provide an easy way 
 ## Project Structure
 
 portfolio-website/
-│── index.html
-│── contact.html
-│── style.css
+* index.html
+* contact.html
+* style.css
 
 
 ## Purpose of This Project
