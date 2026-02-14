@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is a simple personal portfolio website built using **HTML5** and **CSS3**. It consists of two main pages: **Home** and **Contact**.
+This is a simple portfolio website built using **HTML5** and **CSS3**. It consists of two main pages: **Home** and **Contact**.
 
 The website is designed to present my basic information and provide an easy way for visitors to reach out to me.
 
